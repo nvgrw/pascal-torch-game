@@ -7,6 +7,8 @@ Probably works with [QuarkBox](https://github.com/notronik/quarkbox).
 ## What?
 I made this while I was bored in a Computing lesson during my first year of 6th form. Currently you can walk around and illuminate different parts of the level based on your orientation. The approach used is a naive one: A set of rays are drawn out in the torch cone and are then followed. As soon as an inpenetrable object is encountered, the beam stops. Lightness is carved out of darkness. This yields some pretty cool light effects, and even shadows if you'd like to call them that.
 
+If you use DOSBox, it's best to increase the cycles to 52,000 or more.
+
 ## Screenshots
 ![Screenshot 1](screenshots/1.png)
 
